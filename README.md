@@ -1,1 +1,2 @@
-# gd32v1
+# gd32v
+HE1028 Mikrodatorteknik
